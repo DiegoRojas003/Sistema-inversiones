@@ -379,8 +379,8 @@ p {
 	font-family: 'Inter', sans-serif !important;
 }
 .bootstrap-select .dropdown-toggle{
-	height: 45px;
-	padding-right: 30px;
+	height: 300px;
+	padding-right: 50px;
 	font-size: 14px;
 	font-weight: 400;
 }
@@ -853,6 +853,10 @@ textarea.form-control{
 .docs-buttons label{margin-bottom: 0;}
 .docs-buttons .btn{margin-bottom: 5px;}
 
+.table{
+	position: absolute;
+	padding-top: 200px;
+}
 .table thead th{
 	font-weight: 600;
 	font-size: 15px;
@@ -1287,6 +1291,7 @@ table.dataTable.dtr-inline.collapsed>tbody>tr.parent>td:first-child:before, tabl
 	/*height: 44px;*/
 	text-align: center;
 	font-weight: 500;
+	padding-top: 500200px;
 }
 .footer-wrap a{
 	color: #1b00ff;
